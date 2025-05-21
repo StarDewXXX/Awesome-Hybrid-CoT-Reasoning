@@ -19,7 +19,7 @@
 ## 📌 Open source LLMs (sorted by time)
 | Title                                                                                                        | Published Date | Link                                         |
 | ------------------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------- |
-| [Qwen3](https://github.com/QwenLM/Qwen3)  | 2025-04     | [🔗 arXiv](https://arxiv.org/abs/2505.09388) |
+| [Qwen3 series(Qwen Team)](https://github.com/QwenLM/Qwen3)  | 2025-04     | [🔗 arXiv](https://arxiv.org/abs/2505.09388) |
 
 
 
