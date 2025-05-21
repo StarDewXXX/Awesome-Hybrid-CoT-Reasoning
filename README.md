@@ -1,6 +1,7 @@
-# Awesome-Hybrid-CoT-Reasoning 🧠📚
-
+# Awesome-Hybrid-CoT-Reasoning 🧠🤔
 > A curated list of research papers on **Hybrid (Adaptive) Chain-of-Thought (CoT) Reasoning**.
+> 
+> Hybrid Chain-of-Thought (CoT) is a novel technique designed to accelerate the reasoning process of large reasoning models. It aims to enable the model to dynamically select between Long-CoT and Short-CoT strategies based on the nature of the problem, achieving significantly greater speedup compared to alternative approaches.
 ---
 
 ## 📌 Paper List (sorted by time)
