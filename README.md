@@ -16,6 +16,10 @@
 | [ThinkSwitcher: When to Think Hard, When to Think Fast](https://arxiv.org/abs/2505.14183) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.14183) |
 | [Think Only When You Need with Large Hybrid-Reasoning Models](https://arxiv.org/abs/2505.14631) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.14631) |
 
+## 📌 Open source LLMs (sorted by time)
+| Title                                                                                                        | Published Date | Link                                         |
+| ------------------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------- |
+| [Qwen3](https://github.com/QwenLM/Qwen3)  | 2025-04     | [🔗 arXiv](https://arxiv.org/abs/2505.09388) |
 
 
 
