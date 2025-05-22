@@ -4,7 +4,7 @@
 > Hybrid Chain-of-Thought (CoT) is a novel technique designed to accelerate the reasoning process of large reasoning models. It aims to enable the model to dynamically select between Long-CoT and Short-CoT strategies based on the nature of the problem, achieving significantly greater speedup compared to alternative approaches.
 ---
 
-## 📌 Paper List (sorted by time)
+## 📌 LLMs Paper List (sorted by time)
 
 | Title                                                                                                        | Published Date | Link                                         |
 | ------------------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------- |
@@ -15,6 +15,11 @@
 | [AdaptThink: Reasoning Models Can Learn When to Think](https://arxiv.org/abs/2505.13417) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.13417) |
 | [ThinkSwitcher: When to Think Hard, When to Think Fast](https://arxiv.org/abs/2505.14183) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.14183) |
 | [Think Only When You Need with Large Hybrid-Reasoning Models](https://arxiv.org/abs/2505.14631) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.14631) |
+
+## 📌 MLLMs Paper List (sorted by time)
+| Title                                                                                                        | Published Date | Link                                         |
+| ------------------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------- |
+| [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/abs/2504.18458)  | 2025-04     | [🔗 arXiv](https://arxiv.org/abs/2504.18458) |
 
 ## 📌 Open source LLMs (sorted by time)
 | Title                                                                                                        | Published Date | Link                                         |
