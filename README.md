@@ -17,6 +17,7 @@ A curated list of research papers on **Hybrid (Adaptive) Chain-of-Thought (CoT) 
 | [AdaptThink: Reasoning Models Can Learn When to Think](https://arxiv.org/abs/2505.13417) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.13417) |
 | [ThinkSwitcher: When to Think Hard, When to Think Fast](https://arxiv.org/abs/2505.14183) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.14183) |
 | [Think Only When You Need with Large Hybrid-Reasoning Models](https://arxiv.org/abs/2505.14631) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.14631) |
+| [Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2505.11827) | 2025-05 | [🔗 arXiv](https://arxiv.org/abs/2505.11827) |
 
 ## 📌 MLLMs Paper List (sorted by time)
 | Title                                                                                                        | Published Date | Link                                         |
