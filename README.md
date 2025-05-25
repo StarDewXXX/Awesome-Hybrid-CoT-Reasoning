@@ -28,6 +28,7 @@ A curated list of research papers on **Hybrid (Adaptive) Chain-of-Thought (CoT) 
 | Title                                                                                                        | Published Date | Link                                         |
 | ------------------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------- |
 | [Qwen3 Series (Qwen Team)](https://github.com/QwenLM/Qwen3)  | 2025-04     | [🔗 arXiv](https://arxiv.org/abs/2505.09388) |
+| [Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/abs/2505.15431) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.15431) |
 
 
 
