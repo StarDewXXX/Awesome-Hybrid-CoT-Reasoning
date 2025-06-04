@@ -21,6 +21,7 @@ A curated list of research papers on **Hybrid (Adaptive) Chain-of-Thought (CoT) 
 | [Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](https://arxiv.org/abs/2505.15154) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.15154) |
 | [AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting](https://arxiv.org/abs/2505.18822) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.18822) |
 | [Adaptive Deep Reasoning: Triggering Deep Thinking When Needed](https://arxiv.org/abs/2505.20101) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.20101) |
+| [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.15612) |
 
 ## 📌 MLLMs Paper List (sorted by time)
 | Title                                                                                                        | Published Date | Link                                         |
