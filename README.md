@@ -22,6 +22,7 @@ A curated list of research papers on **Hybrid (Adaptive) Chain-of-Thought (CoT) 
 | [AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting](https://arxiv.org/abs/2505.18822) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.18822) |
 | [Adaptive Deep Reasoning: Triggering Deep Thinking When Needed](https://arxiv.org/abs/2505.20101) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.20101) |
 | [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612) | 2025-05     | [🔗 arXiv](https://arxiv.org/abs/2505.15612) |
+| [ARM: Adaptive Reasoning Model](https://arxiv.org/pdf/2505.20258) | 2025-05     | [🔗 arXiv](https://arxiv.org/pdf/2505.20258) |
 
 ## 📌 MLLMs Paper List (sorted by time)
 | Title                                                                                                        | Published Date | Link                                         |
